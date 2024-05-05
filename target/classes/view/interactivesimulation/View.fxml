@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<AnchorPane prefHeight="606.0" prefWidth="893.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.interactivesimulation.View">
+   <children>
+      <Pane layoutX="250.0" layoutY="63.0" prefHeight="78.0" prefWidth="271.0" style="-fx-background-color: white;">
+         <children>
+          <Button alignment="CENTER" layoutX="101.0" layoutY="23.0" minWidth="60.0" mnemonicParsing="false" prefHeight="33.0" prefWidth="70.0" style="-fx-background-color: #00bfff;" text="Continue" textAlignment="CENTER" />
+          <Button layoutX="14.0" layoutY="23.0" minWidth="60.0" mnemonicParsing="false" prefHeight="33.0" prefWidth="70.0" style="-fx-background-color: #00bfff;" text="Reset" />
+          <Button alignment="CENTER" contentDisplay="CENTER" layoutX="187.0" layoutY="23.0" minWidth="41.0" mnemonicParsing="false" prefHeight="33.0" prefWidth="70.0" style="-fx-background-color: #00bfff;" text="Pause" textAlignment="CENTER" />
+         </children>
+      </Pane>
+      <ButtonBar layoutX="123.0" layoutY="62.0" prefHeight="40.0" prefWidth="60.0" />
+      <ButtonBar layoutX="353.0" layoutY="162.0" prefHeight="40.0" prefWidth="0.0" />
+      <Pane layoutX="650.0" layoutY="55.0" prefHeight="280.0" prefWidth="200.0" style="-fx-background-color: white;" />
+   </children>
+</AnchorPane>
