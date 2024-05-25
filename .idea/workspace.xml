@@ -1,30 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="InteractiveSimulation:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6e93714-d711-472d-897d-7a2e609f51b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Force.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/PhysicalObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Surface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/view/interactivesimulation/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/interactivesimulation/View.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/InteractiveSimulation_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/force/Force.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/appliedForce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/cylinder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/friction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/goku.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/goku1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/resultant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/skyBackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/surfaceBackground'.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design/Class Diagram.asta" beforeDir="false" afterPath="$PROJECT_DIR$/Design/Class Diagram.asta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/object/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/object/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Force.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/PhysicalObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/object/PhysicalObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Surface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/surface/Surface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/view/interactivesimulation/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/interactivesimulation/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/interactivesimulation/View.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/interactivesimulation/View.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Cube.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Force.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/PhysicalObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/view/interactivesimulation/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/interactivesimulation/View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/view/interactivesimulation/View.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/interactivesimulation/View.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +54,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
@@ -48,9 +70,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2g3CQ8w0B9ToAOiGXJQU1G5YmtN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,20 +81,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.View.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.View.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/bin/vcruntime140_1.dll&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\std\OOP\Mini Project\InteractiveSimulation\src\main\java\view\interactivesimulation" />
@@ -91,5 +115,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalAccessException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
