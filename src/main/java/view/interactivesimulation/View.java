@@ -5,19 +5,18 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 import javafx.scene.Parent;
 
-import java.io.IOException;
 
 public class View extends Application {
     @Override
     public void start(Stage stage) {
         try {
-            // Read file fxml and draw interface.
+
             Parent root = FXMLLoader.load(getClass().getResource("View.fxml"));
-
-            stage.setTitle("Force Representation");
-            stage.setScene(new Scene(root));
+            stage.setTitle("Interactive Simulation of Forces");
+            Scene scene = new Scene(root);
+            scene.getStylesheets().add(getClass().getResource("View.css").toExternalForm());
+            stage.setScene(scene);
             stage.show();
-
         } catch(Exception e) {
             e.printStackTrace();
         }
