@@ -38,7 +38,7 @@ public abstract class PhysicalObject {
 
 
     public void accelerationUpdate(){
-        acceleration = getResulantForceValue()/mass;
+        acceleration = getResultantForceValue()/mass;
     }
 
     public void velocityUpdate(double t){
@@ -92,7 +92,7 @@ public abstract class PhysicalObject {
         this.surface = surface;
     }
 
-    public double getResulantForceValue(){
+    public double getResultantForceValue(){
         return appliedForce.getValue()+friction.getValue();
     }
 

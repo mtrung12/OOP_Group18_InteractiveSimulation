@@ -10,40 +10,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6e93714-d711-472d-897d-7a2e609f51b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/InteractiveSimulation_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/force/Force.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/image/appliedForce.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/image/cylinder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/image/friction.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/image/goku.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/image/goku1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/image/resultant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/image/skyBackground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/image/surfaceBackground'.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Usecase/UseCaseDiagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Usecase/use_case_diagram.asta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image/goku4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Design/Class Diagram.asta" beforeDir="false" afterPath="$PROJECT_DIR$/Design/Class Diagram.asta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design/Class Diagram0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Group18_InteractiveSimulation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Usecase/UseCase Diagram0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Usecase/Usecase Diagram.asta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/object/Cube.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/object/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Force.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/PhysicalObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/object/PhysicalObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Surface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/surface/Surface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/object/PhysicalObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/object/PhysicalObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/view/interactivesimulation/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/interactivesimulation/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/image/goku.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/view/interactivesimulation/View.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/interactivesimulation/View.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Cube.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Cylinder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Force.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/PhysicalObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Surface.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/view/interactivesimulation/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/interactivesimulation/View.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/view/interactivesimulation/View.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/interactivesimulation/View.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +45,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mtrung12&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mtrung12/OOP_Group18_InteractiveSimulation.git&quot;,
+    &quot;accountId&quot;: &quot;2c7d4aa8-4d5e-4893-b3e4-92fba33dad3e&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>

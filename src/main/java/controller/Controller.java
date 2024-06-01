@@ -133,6 +133,9 @@ public class Controller implements Initializable{
     private Label initLabel;
     @FXML
     private Rectangle initRectangle;
+    @FXML
+    private ImageView goku;
+
 
     private static double MAXIMUM_SIDELENGTH = 200;
     private static double MAXIMUM_RADIUS=100;
@@ -164,7 +167,7 @@ public class Controller implements Initializable{
         forceSlider.setDisable(true);
         surface1.setX(0); surface2.setX(0);
         sky1.setX(0); sky2.setX(0);
-        initLabel.setVisible(false); initRectangle.setVisible(false);
+        initLabel.setVisible(false); initRectangle.setVisible(false); goku.setVisible(false);
 
         forceSlider.valueProperty().addListener(new ChangeListener<Number>() {
             @Override
@@ -174,6 +177,7 @@ public class Controller implements Initializable{
                 appliedForce.setValue(appliedValue);
                 checkBoxUpdate();
                 timer.start();
+
             }
         });
 
@@ -464,7 +468,12 @@ public class Controller implements Initializable{
             massLabel.setVisible(false);
             massText.setVisible(false);
         }
-
+        if(appliedForceTf.getText()!=null&&(isCube||isCylinder)){
+            goku.setVisible(true);
+        }
+        else{
+            goku.setVisible(false);
+        }
         //Force Checkbox
         if (forceCheckBox.isSelected()&&(isCube||isCylinder)&&appliedForceTf.getText()!=null) {
             appliedForceArrow.setVisible(true);
@@ -510,6 +519,7 @@ public class Controller implements Initializable{
     }
 
     public void resetButton(){
+        goku.setVisible(false);
         initLabel.setVisible(false);
         initRectangle.setVisible(false);
         cubeObject.setVisible(true);
@@ -567,13 +577,13 @@ public class Controller implements Initializable{
 
         appliedForceText.setText(String.format("%.4fN",object.getAppliedForceValue()));
         frictionText.setText(String.format("%.4fN",object.getFrictionValue()));
-        resultantForceText.setText(String.format("%.4fN",object.getResulantForceValue()));
+        resultantForceText.setText(String.format("%.4fN",object.getResultantForceValue()));
 
         forceSlider.adjustValue(object.getAppliedForceValue());
 
         forceDisplay(object.getAppliedForceValue(), appliedForceArrow, appliedForcePane);
         forceDisplay(object.getFrictionValue(), frictionArrow, frictionForcePane);
-        forceDisplay(object.getResulantForceValue(), resultantForceArrow, resultantForcePane);
+        forceDisplay(object.getResultantForceValue(), resultantForceArrow, resultantForcePane);
 
         //create movement effect
         if (surface1.getX() - (object.getPosition() - prevPosition)*25 < -WINDOW_WIDTH) {
@@ -597,7 +607,14 @@ public class Controller implements Initializable{
             sky1.setX(sky1.getX() - (object.getPosition() - prevPosition)*10);
             sky2.setX(sky2.getX() - (object.getPosition() - prevPosition)*10);
         }
-
+        if(appliedForce.getValue()<0){
+            goku.setScaleX(-1);
+            goku.setTranslateX(cubeObject.getWidth()+goku.getBoundsInLocal().getWidth()-3);
+        }
+        else{
+            goku.setScaleX(1);
+            goku.setTranslateX(0);
+        }
         //create rotation effect for cylinder object
         if(object instanceof  Cylinder){
             cylinderLineOn1.setRotate(cylinderLineOn1.getRotate()-(object.getAngularPosition()-prevAngularPosition)*180/Math.PI*25);
