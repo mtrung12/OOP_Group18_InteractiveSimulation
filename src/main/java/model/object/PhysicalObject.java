@@ -7,10 +7,7 @@ public abstract class PhysicalObject {
     private double mass;
     //(cube) height=side length, (cylinder) height=2*radius    
     private double height;
-    //(x,y) is the position of center of the object
-    //(0,0) is the center of the initial point of contact between the object and the surface
     private double x;
-    private double y;
     protected Surface surface;
     protected Force appliedForce;
     protected Force friction;
@@ -23,7 +20,6 @@ public abstract class PhysicalObject {
         this.mass = mass;
         this.height=height;
         this.x = 0;
-        this.y = height/2;
         this.surface = surface;
         this.appliedForce = appliedForce;
         this.normalForce = new Force(mass*10);
