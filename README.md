@@ -12,7 +12,7 @@ A simple interactive simulation for demonstrating Newton’s laws of motion.
 
 
 ## General Class Diagram:
-Location: [Design/ClassDiagram.png](Design/ClassDiagram.png)
+Location: [Design/ClassDiagram.png](Design/General_Class_Diagram.png)
 
 ![Alt text](Design/General_Class_Diagram.png)
 
