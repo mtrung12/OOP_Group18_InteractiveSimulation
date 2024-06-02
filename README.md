@@ -12,19 +12,19 @@ A simple interactive simulation for demonstrating Newton’s laws of motion.
 
 
 ## General Class Diagram:
-Location: [Design\General_Class_Diagram.png](.Design\General_Class_Diagram.png)
+Location: [Design/ClassDiagram.png](Design/General_Class_Diagram.png)
 
-![Alt text](Design\General_Class_Diagram.png)
+![Alt text](Design/General_Class_Diagram.png)
 
 ## Detailed Class Diagram:
-Location: [Design\ClassDiagram.png](.Design\ClassDiagram.png)
+Location: [Design/ClassDiagram.png](Design/ClassDiagram.png)
 
-![Alt text](Design\ClassDiagram.png)
+![Alt text](Design/ClassDiagram.png)
 
 ## Usecase diagram:
-Location: [Usecase\UseCaseDiagram.png](.Usecase\UseCaseDiagram.png)
+Location: [Usecase/UseCaseDiagram.png](Usecase/UseCaseDiagram.png)
 
-![Alt text](Usecase\UseCaseDiagram.png)
+![Alt text](Usecase/UseCaseDiagram.png)
 
 ## Demo
   [DemoVideo](https://drive.google.com/file/d/1NLIkhn11kc8dD9bCNWWKvwizjR59NYKG/view?usp=sharing][DemoVideo)
