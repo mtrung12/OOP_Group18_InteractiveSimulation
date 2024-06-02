@@ -10,23 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6e93714-d711-472d-897d-7a2e609f51b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Usecase/UseCaseDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Usecase/use_case_diagram.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/image/goku4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/Class Diagram.asta" beforeDir="false" afterPath="$PROJECT_DIR$/Design/Class Diagram.asta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/Class Diagram0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_Group18_InteractiveSimulation.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Usecase/UseCase Diagram0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Usecase/Usecase Diagram.asta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/object/PhysicalObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/object/PhysicalObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/image/goku.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/view/interactivesimulation/View.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/interactivesimulation/View.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design/General_Class_Diagram.asta.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/view/interactivesimulation/View.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/interactivesimulation/View.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
