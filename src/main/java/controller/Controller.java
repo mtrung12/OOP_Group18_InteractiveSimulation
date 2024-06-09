@@ -137,8 +137,8 @@ public class Controller implements Initializable{
     private ImageView goku;
 
 
-    private static double MAXIMUM_SIDELENGTH = 200;
-    private static double MAXIMUM_RADIUS=100;
+    private static final double MAXIMUM_SIDELENGTH = 200;
+    private static final double MAXIMUM_RADIUS = 100;
     private double appliedValue;
     private double staticFriction;
     private double kineticFriction;

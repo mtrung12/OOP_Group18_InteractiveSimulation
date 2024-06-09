@@ -10,8 +10,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6e93714-d711-472d-897d-7a2e609f51b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/ClassDiagram.png.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/GUI_class_diagram.asta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/GUI_class_diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/General_Class_Diagram.png.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/ModelClassDiagram.asta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/Model_Class_Diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/Model_Class_Diagram.png.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/OOP Group 18 report.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/~$P Group 18 report.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slide/Group 18 OOP.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design/ClassDiagram.asta" beforeDir="false" afterPath="$PROJECT_DIR$/Design/ClassDiagram.asta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design/ClassDiagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/Design/ClassDiagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design/General_Class_Diagram.asta" beforeDir="false" afterPath="$PROJECT_DIR$/Design/General_Class_Diagram.asta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design/General_Class_Diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/Design/General_Class_Diagram.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/view/interactivesimulation/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/interactivesimulation/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/view/interactivesimulation/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/interactivesimulation/View.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,23 +78,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Launcher.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.View.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "topic/markdown",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/bin/vcruntime140_1.dll",
-    "project.structure.last.edited": "Facets",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Launcher.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.View.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;topic/markdown&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/OneDrive/Desktop/OOP.20232.ForceAndMotionBasic-main&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\std\OOP\Mini Project\InteractiveSimulation\src\main\java\view\interactivesimulation" />
