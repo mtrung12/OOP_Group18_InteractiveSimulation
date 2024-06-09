@@ -18,9 +18,9 @@ Location: [Design/ClassDiagram.png](Design/General_Class_Diagram.png)
 ![Alt text](Design/General_Class_Diagram.png)
 
 ### Detailed Class Diagram:
-Location: [Design/ClassDiagram.png](Design/ClassDiagram.png)
+Location: [Design/Class_Diagram.png](Design/Class_Diagram.png)
 
-![Alt text](Design/ClassDiagram.png)
+![Alt text](Design/Class_Diagram.png)
 
 ### GUI class diagram
 Location: [Design/GUI_class_diagram.png](Design/GUI_class_diagram.png)
