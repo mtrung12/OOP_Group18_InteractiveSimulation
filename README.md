@@ -7,7 +7,7 @@ This is a mini-project created by Group 18 in semester 2023.2 for Object-Oriente
 ---------------------|------------  |--------------------------------------------------------------------------------------------------------------------------------|
 | Ngo Minh Trung      |20226004      | GUI, class PhysicalObject, class Cylinder, class Force, class Cube, class Surface, Use case diagram, Report + Slide prepartion |
 | Phan Hoang Tu       | 20226068     | Testing application on Terminal, General Class Diagram                                                                         |
-| Dang Trong Van      | 20226072     | Detailed Class Diagram, Slide Preparation                                                                                      |
+| Dang Trong Van      | 20226072     | Detailed Class Diagram                                                                                 |
 
 
 
